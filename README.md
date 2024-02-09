@@ -1,1 +1,1 @@
-# Exercício de fixação em dupla. Objetivo: Refazer Wikipédia com os conecitos básicos de HTML.
+# Exercício de fixação em dupla. Objetivo: Refazer Wikipédia com os conceitos básicos de HTML.
